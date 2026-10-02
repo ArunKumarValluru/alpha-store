@@ -1,0 +1,11 @@
+com/alphastore/userManagement/repository/UserRoleMappingRepository.class
+com/alphastore/userManagement/constants/APIConstants.class
+com/alphastore/userManagement/dto/UserDetailsDTO.class
+com/alphastore/userManagement/repository/UserRepository.class
+com/alphastore/userManagement/pojo/Role.class
+com/alphastore/userManagement/interfaces/IAuthService.class
+com/alphastore/userManagement/controller/AuthController.class
+com/alphastore/userManagement/pojo/UserRoleMapping.class
+com/alphastore/userManagement/service/AuthService.class
+com/alphastore/userManagement/pojo/UserDetails.class
+com/alphastore/userManagement/repository/RoleRepository.class

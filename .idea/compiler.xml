@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="userManagement" />
+        <module name="orders" />
+        <module name="applicationRun" />
+        <module name="cart" />
+        <module name="utils" />
+        <module name="products" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="alphastores-api" target="11" />
+      <module name="alphastores-backend" target="11" />
+      <module name="alphastores-common" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

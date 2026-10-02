@@ -1,0 +1,11 @@
+/home/vassara/projects/alpha-store/userManagement/src/main/java/com/alphastore/userManagement/repository/UserRepository.java
+/home/vassara/projects/alpha-store/userManagement/src/main/java/com/alphastore/userManagement/controller/AuthController.java
+/home/vassara/projects/alpha-store/userManagement/src/main/java/com/alphastore/userManagement/repository/UserRoleMappingRepository.java
+/home/vassara/projects/alpha-store/userManagement/src/main/java/com/alphastore/userManagement/repository/RoleRepository.java
+/home/vassara/projects/alpha-store/userManagement/src/main/java/com/alphastore/userManagement/pojo/UserDetails.java
+/home/vassara/projects/alpha-store/userManagement/src/main/java/com/alphastore/userManagement/pojo/UserRoleMapping.java
+/home/vassara/projects/alpha-store/userManagement/src/main/java/com/alphastore/userManagement/pojo/Role.java
+/home/vassara/projects/alpha-store/userManagement/src/main/java/com/alphastore/userManagement/constants/APIConstants.java
+/home/vassara/projects/alpha-store/userManagement/src/main/java/com/alphastore/userManagement/dto/UserDetailsDTO.java
+/home/vassara/projects/alpha-store/userManagement/src/main/java/com/alphastore/userManagement/interfaces/IAuthService.java
+/home/vassara/projects/alpha-store/userManagement/src/main/java/com/alphastore/userManagement/service/AuthService.java
